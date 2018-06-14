@@ -1,0 +1,19 @@
+{
+    "name": "trance/widget",
+    "description": "some widgets",
+    "type": "widget,layer",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Peng Shiliang",
+            "email": "1390509500@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Trance\\": "src/"
+        }
+    }
+}
